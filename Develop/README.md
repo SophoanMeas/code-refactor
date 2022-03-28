@@ -7,7 +7,7 @@ To refractor the code with proper HTML semantic tags. To ensure accessibility fo
 ## How to View Content
 Click on the link below to view the web page.
 
-➡️  https://sophoanmeas.github.io/Carleton-University-Web-Dev/01-HTML-Git-CSS/02-Challenge/Develop/index.html
+➡️  https://sophoanmeas.github.io/code-refactor/Develop/index.html
 
   * Chrome/Firefox Dev-tool
     * SHIFT + CTRL + J (windows/Linux)
